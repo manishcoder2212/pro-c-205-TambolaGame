@@ -1,1 +1,2 @@
-# pro-c-205-TambolaGame
+# c205-project-solution
+project solution for 205
